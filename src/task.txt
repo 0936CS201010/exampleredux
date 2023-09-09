@@ -1,0 +1,14 @@
+task 
+======
+shareMarket Todu List
+----------------------
+
+shareid
+companyname
+today date 
+open (in rupees)
+close (in rupees)
+company logo
+
+Submit [Button]
+
